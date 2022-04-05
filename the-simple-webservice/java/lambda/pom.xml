@@ -18,7 +18,7 @@
         <reproducible.build.maven.plugin>0.12</reproducible.build.maven.plugin>
 
         <aws.log4j.version>2.13.3</aws.log4j.version>
-        <aws.sdk.version>2.13.66</aws.sdk.version>
+        <aws.sdk.version>2.17.0</aws.sdk.version>
         <aws.lambda-events.version>3.1.1</aws.lambda-events.version>
         <symphonia.logging.version>1.0.3</symphonia.logging.version>
         <symphonia.packaging.version>1.0.0</symphonia.packaging.version>
