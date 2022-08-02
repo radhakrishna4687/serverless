@@ -28,6 +28,6 @@
     "@aws-cdk/aws-stepfunctions": "1.83.0",
     "@aws-cdk/aws-stepfunctions-tasks": "1.83.0",
     "@aws-cdk/aws-apigateway": "1.83.0",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.21"
   }
 }
