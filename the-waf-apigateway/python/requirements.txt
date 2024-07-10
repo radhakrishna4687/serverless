@@ -5,3 +5,4 @@ aws-cdk.aws_iam==1.83.0
 aws-cdk.aws_lambda==1.83.0
 aws-cdk.aws_cloudformation==1.83.0
 aws-cdk.aws_wafv2==1.83.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
