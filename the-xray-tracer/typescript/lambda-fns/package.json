@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-xray-sdk": "^3.0.0"
+    "aws-xray-sdk": "^3.5.1"
   }
 }
